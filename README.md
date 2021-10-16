@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reziic
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Python
 - 📫 How to reach me rezic#6249 (Discord)
 
 <!---
