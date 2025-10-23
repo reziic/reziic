@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reziic
-- 🌱 I’m currently learning Python
-- 📫 How to reach me rezic#6249 (Discord)
+- 🌱 I’m currently learning nothing :(
+- 📫 How to reach me steady.rezic (Discord)
 
 <!---
 reziic/reziic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
